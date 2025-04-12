@@ -1,7 +1,7 @@
-🧠 Prediction Techniques in Data Mining
+🧠 **Prediction Techniques in Data Mining**
 This project is a personal exploration of various machine learning classification techniques using a real-world dataset. It demonstrates the end-to-end pipeline of predictive modeling — from data cleaning to performance evaluation — showcasing the power of different algorithms in classification problems.
 
-📌 Objective
+📌 **Objective**
 To build and evaluate multiple classification models to predict outcomes based on structured data. The project focuses on:
 
 Data preprocessing
@@ -14,25 +14,25 @@ Training multiple prediction models
 
 Evaluating and comparing model performance
 
-📂 Project Structure
+📂 **Project Structure**
 prediction_techniques.ipynb: Jupyter notebook with all code, analysis, and visualizations
 
 README.md: This file — project overview and instructions
 
-🧪 Techniques Demonstrated
+🧪 **Techniques Demonstrated**
 The notebook walks through the implementation of the following models:
 
-✅ Logistic Regression
+✅ **Logistic Regression**
 
-🌳 Decision Tree
+🌳 **Decision Tree**
 
-🌲 Random Forest
+🌲** Random Forest**
 
-🚀 Gradient Boosting
+🚀 **Gradient Boosting**
 
-📈 Evaluation: Accuracy, Precision, Recall, F1-score, ROC AUC
-
-📊 Evaluation Metrics
+📈 **Evaluation: Accuracy, Precision, Recall, F1-score, ROC AUC
+**
+📊 **Evaluation Metrics
 To assess model performance, the following tools are used:
 
 Confusion Matrix
@@ -41,7 +41,7 @@ Classification Report
 
 ROC Curve
 
-Cross-validation
+Cross-validation**
 
 ⚙️ How to Run
 Clone the repository and open the notebook locally:
